@@ -1,0 +1,6 @@
+com/example/test/repository/DemoRepository.class
+com/example/test/controller/DemoController.class
+com/example/test/configuration/PersistenceConfig.class
+com/example/test/model/Empresa.class
+com/example/test/DemoApplication.class
+com/example/test/configuration/AppConfig.class
